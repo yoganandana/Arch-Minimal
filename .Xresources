@@ -1,0 +1,10 @@
+xterm*background: black
+xterm*foreground: lightgray
+xterm*faceName: terminus :pixelsize=14
+Xft.antialias: 1
+Xft.hinting: 1
+Xft.autohint: 0
+Xft.rgba: rgb
+Xft.dpi: 96
+Xft.hintstyle: hintslight
+Xft.lcdfilter: lcddefault
